@@ -1,27 +1,30 @@
 Task Tracker is a simple, command-line interface (CLI) application to help you manage tasks efficiently. It allows you to add, list, update, and remove tasks right from your terminal.
 
-Features
+Features:
+
 Add new tasks
 List all tasks with their statuses
 Update the status of a task
 Remove tasks by their number
 Task status options: pending, in-progress, and done
-Prerequisites
+Prerequisites:
+
 Node.js (version 12 or higher)
 npm (Node Package Manager)
 Make sure Node.js and npm are installed on your machine. You can download them from Node.js official website.
 
-Installation
+Installation:
+
 Clone the repository:
 
 bash
 Copier le code
-git clone https://github.com/yourusername/task-tracker-cli.git
+git clone https://github.com/yacinesekhri/task-tracker.git
 Navigate to the project directory:
 
 bash
 Copier le code
-cd task-tracker-cli
+cd privtt
 Install the dependencies:
 
 bash
